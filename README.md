@@ -105,17 +105,17 @@ const yogesh = {
 ---
 
 ## 🌟 Featured Projects
-
+ 
 <div align="center">
-
+ 
 | 🚀 Project | 📝 Description | 🛠 Stack |
 |------------|----------------|----------|
-| **[Portfolio Website](https://y-portfolio-flame.vercel.app/)** | Personal portfolio showcasing work & skills | React, TailwindCSS |
-| **[E-Commerce App](#)** | Full-stack shopping platform with auth & payments | MERN, JWT, Stripe |
-| **[Chat Application](#)** | Real-time messaging app with socket.io | Node.js, Socket.io, MongoDB |
-| **[DSA Tracker](#)** | Track your DSA progress with C++ solutions | C++, Python, React |
-
+| **[AlgoSprint](#)** | A DSA practice & code execution platform — write, run, and master algorithms right in the browser | React, JavaScript |
+| **[UchihaMonitor](#)** | A powerful API testing & monitoring tool — test endpoints, inspect responses, and debug with ease | React, JavaScript |
+| **[Campus Placement Portal](#)** | A job portal built for campus placements — explore opportunities, apply to drives & track applications | React, JavaScript |
+ 
 </div>
+ 
 
 ---
 
