@@ -60,7 +60,9 @@ const yogesh = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 </div>
 
 ---
@@ -93,14 +95,15 @@ const yogesh = {
 ## 🌟 Featured Projects
 
 <div align="center">
-
+ 
 | 🚀 Project | 📝 Description | 🛠 Stack |
 |------------|----------------|----------|
-| **[AlgoSprint](#)** | A DSA practice & code execution platform — write, run, and master algorithms right in the browser | React, JavaScript |
-| **[UchihaMonitor](#)** | A powerful API testing & monitoring tool — test endpoints, inspect responses, and debug with ease | React, JavaScript |
-| **[Campus Placement Portal](#)** | A job portal built for campus placements — explore opportunities, apply to drives & track applications | React, JavaScript |
-
+| **[AlgoSprint](#)** | A DSA practice & code execution platform — write, run, and master algorithms right in the browser | React, JavaScript, Express, Node.js, Tailwind |
+| **[UchihaMonitor](#)** | A powerful API testing & monitoring tool — test endpoints, inspect responses, and debug with ease | React, JavaScript, Express, Node.js, Tailwind |
+| **[Campus Placement Portal](#)** | A job portal built for campus placements — explore opportunities, apply to drives & track applications | React, JavaScript, Express, Node.js, Tailwind |
+ 
 </div>
+ 
 
 ---
 
