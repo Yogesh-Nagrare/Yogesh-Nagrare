@@ -98,9 +98,9 @@ const yogesh = {
  
 | 🚀 Project | 📝 Description | 🛠 Stack |
 |------------|----------------|----------|
-| **[AlgoSprint](#)** | A DSA practice & code execution platform — write, run, and master algorithms right in the browser | React, JavaScript, Express, Node.js, Tailwind |
-| **[UchihaMonitor](#)** | A powerful API testing & monitoring tool — test endpoints, inspect responses, and debug with ease | React, JavaScript, Express, Node.js, Tailwind |
-| **[Campus Placement Portal](#)** | A job portal built for campus placements — explore opportunities, apply to drives & track applications | React, JavaScript, Express, Node.js, Tailwind |
+| **[AlgoSprint](https://algo-sprint-iota.vercel.app/)** | A DSA practice & code execution platform — write, run, and master algorithms right in the browser | React, JavaScript, Express, Node.js, Tailwind |
+| **[UchihaMonitor](https://uchiha-monitor.vercel.app/)** | A powerful API testing & monitoring tool — test endpoints, inspect responses, and debug with ease | React, JavaScript, Express, Node.js, Tailwind |
+| **[Campus Placement Portal](https://ycce-placement-portal.vercel.app/)** | A job portal built for campus placements — explore opportunities, apply to drives & track applications | React, JavaScript, Express, Node.js, Tailwind |
  
 </div>
  
