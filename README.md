@@ -83,12 +83,12 @@ const yogesh = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yogeshnagrare&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshnagrare&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Yogesh-Nagrare&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh-Nagrare&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshnagrare&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogesh-Nagrare&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
 
 </div>
 
