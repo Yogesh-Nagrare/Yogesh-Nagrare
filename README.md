@@ -78,30 +78,30 @@ const yogesh = {
 </div>
 
 ---
-
+ 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-
+ 
 <img src="https://github-readme-stats.vercel.app/api?username=Yogesh-Nagrare&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh-Nagrare&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
-
+ 
 <br/>
-
+ 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogesh-Nagrare&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
-
+ 
 </div>
-
+ 
 ---
-
+ 
 ## 🏆 GitHub Trophies
-
+ 
 <div align="center">
-
+ 
 <img src="https://github-profile-trophy.vercel.app/?username=Yogesh-Nagrare&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
-
+ 
 </div>
-
+ 
 ---
 
 ## 🌟 Featured Projects
@@ -120,13 +120,13 @@ const yogesh = {
 ---
 
 ## 📈 Contribution Graph
-
+ 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yogeshnagrare&theme=tokyo-night&hide_border=true&border_radius=12&area=true" width="100%"/>
-
+ 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogesh-Nagrare&theme=tokyo-night&hide_border=true&border_radius=12&area=true" width="100%"/>
+ 
 </div>
-
+ 
 ---
 
 ## 🤝 Connect With Me
