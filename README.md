@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 ### 👋 Hey there! I'm **Yogesh Nagrare**
 #### 🚀 MERN Stack Developer | Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps+%F0%9F%8C%90;MERN+Stack+%7C+C%2B%2B+%7C+Python+%F0%9F%90%8D;Turning+ideas+into+reality+%F0%9F%92%A1;Always+learning%2C+always+growing+%F0%9F%8C±" alt="Typing SVG" />
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps+%F0%9F%8C%90;MERN+Stack+%7C+C%2B%2B+%7C+Python+%F0%9F%90%8D;Turning+ideas+into+reality+%F0%9F%92%A1;Always+learning%2C+always+growing+%F0%9F%8C%9F" alt="Typing SVG" />
+ 
 </div>
 
 ---
@@ -98,7 +99,7 @@ const yogesh = {
  
 <div align="center">
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yogesh-Nagrare&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yogesh-Nagrare&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
  
 </div>
  
