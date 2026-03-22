@@ -110,7 +110,7 @@ const yogesh = {
 
 | 🚀 Project | 📝 Description | 🛠 Stack |
 |------------|----------------|----------|
-| **[Portfolio Website](#)** | Personal portfolio showcasing work & skills | React, TailwindCSS |
+| **[Portfolio Website](https://y-portfolio-flame.vercel.app/)** | Personal portfolio showcasing work & skills | React, TailwindCSS |
 | **[E-Commerce App](#)** | Full-stack shopping platform with auth & payments | MERN, JWT, Stripe |
 | **[Chat Application](#)** | Real-time messaging app with socket.io | Node.js, Socket.io, MongoDB |
 | **[DSA Tracker](#)** | Track your DSA progress with C++ solutions | C++, Python, React |
@@ -152,9 +152,9 @@ const yogesh = {
 ---
 
 <div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=yogeshnagrare&label=Profile+Views&color=6C63FF&style=for-the-badge)
-
+ 
+![Visitor Count](https://komarev.com/ghpvc/?username=Yogesh-Nagrare&label=Profile+Views&color=6C63FF&style=for-the-badge)
+ 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
-
+ 
 </div>
