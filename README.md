@@ -98,7 +98,7 @@ const yogesh = {
  
 <div align="center">
  
-<img src="https://github-profile-trophy.vercel.app/?username=Yogesh-Nagrare&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yogesh-Nagrare&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
  
 </div>
  
@@ -110,9 +110,9 @@ const yogesh = {
  
 | 🚀 Project | 📝 Description | 🛠 Stack |
 |------------|----------------|----------|
-| **[AlgoSprint](#)** | A DSA practice & code execution platform — write, run, and master algorithms right in the browser | React, JavaScript |
-| **[UchihaMonitor](#)** | A powerful API testing & monitoring tool — test endpoints, inspect responses, and debug with ease | React, JavaScript |
-| **[Campus Placement Portal](#)** | A job portal built for campus placements — explore opportunities, apply to drives & track applications | React, JavaScript |
+| **[AlgoSprint](#)** | A DSA practice & code execution platform — write, run, and master algorithms right in the browser | React, JavaScript, Express, Node.js, Tailwind |
+| **[UchihaMonitor](#)** | A powerful API testing & monitoring tool — test endpoints, inspect responses, and debug with ease | React, JavaScript, Express, Node.js, Tailwind |
+| **[Campus Placement Portal](#)** | A job portal built for campus placements — explore opportunities, apply to drives & track applications | React, JavaScript, Express, Node.js, Tailwind |
  
 </div>
  
@@ -141,13 +141,6 @@ const yogesh = {
 </div>
 
 ---
-
-<div align="center">
-
-### 💬 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
 ---
 
