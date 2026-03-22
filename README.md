@@ -1,17 +1,3 @@
-<!--
-**Yogesh-Nagrare/Yogesh-Nagrare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yogesh%20Nagrare&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
@@ -23,11 +9,10 @@ Here are some ideas to get you started:
 <div align="center">
 
 ### 👋 Hey there! I'm **Yogesh Nagrare**
-#### 🚀 MERN Stack Developer | Problem Solver
-
+#### 🚀 MERN Stack Developer | Problem Solver | Code Craftsman
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps+%F0%9F%8C%90;MERN+Stack+%7C+C%2B%2B+%7C+Python+%F0%9F%90%8D;Turning+ideas+into+reality+%F0%9F%92%A1;Always+learning%2C+always+growing+%F0%9F%8C%9F" alt="Typing SVG" />
- 
+
 </div>
 
 ---
@@ -79,55 +64,54 @@ const yogesh = {
 </div>
 
 ---
- 
+
 ## 📊 GitHub Stats
- 
+
 <div align="center">
- 
+
 <img src="https://github-readme-stats.vercel.app/api?username=Yogesh-Nagrare&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh-Nagrare&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
- 
+
 <br/>
- 
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogesh-Nagrare&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
- 
+
 </div>
- 
+
 ---
- 
+
 ## 🏆 GitHub Trophies
- 
+
 <div align="center">
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yogesh-Nagrare&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
- 
+
+<img src="https://github-trophies.vercel.app/?username=Yogesh-Nagrare&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=4" alt="trophies"/>
+
 </div>
- 
+
 ---
 
 ## 🌟 Featured Projects
- 
+
 <div align="center">
- 
+
 | 🚀 Project | 📝 Description | 🛠 Stack |
 |------------|----------------|----------|
-| **[AlgoSprint](#)** | A DSA practice & code execution platform — write, run, and master algorithms right in the browser | React, JavaScript, Express, Node.js, Tailwind |
-| **[UchihaMonitor](#)** | A powerful API testing & monitoring tool — test endpoints, inspect responses, and debug with ease | React, JavaScript, Express, Node.js, Tailwind |
-| **[Campus Placement Portal](#)** | A job portal built for campus placements — explore opportunities, apply to drives & track applications | React, JavaScript, Express, Node.js, Tailwind |
- 
+| **[AlgoSprint](#)** | A DSA practice & code execution platform — write, run, and master algorithms right in the browser | React, JavaScript |
+| **[UchihaMonitor](#)** | A powerful API testing & monitoring tool — test endpoints, inspect responses, and debug with ease | React, JavaScript |
+| **[Campus Placement Portal](#)** | A job portal built for campus placements — explore opportunities, apply to drives & track applications | React, JavaScript |
+
 </div>
- 
 
 ---
 
 ## 📈 Contribution Graph
- 
+
 <div align="center">
- 
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogesh-Nagrare&theme=tokyo-night&hide_border=true&border_radius=12&area=true" width="100%"/>
- 
+
 </div>
- 
+
 ---
 
 ## 🤝 Connect With Me
@@ -136,19 +120,26 @@ const yogesh = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-nagrare4/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yogeshnagrare)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)]([https://yogeshnagrare.dev](https://y-portfolio-flame.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://y-portfolio-flame.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogesh@gmail.com)
 
 </div>
 
 ---
 
+<div align="center">
+
+### 💬 Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
 ---
 
 <div align="center">
- 
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=Yogesh-Nagrare&label=Profile+Views&color=6C63FF&style=for-the-badge)
- 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
- 
+
 </div>
