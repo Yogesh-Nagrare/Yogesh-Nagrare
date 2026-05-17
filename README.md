@@ -25,7 +25,7 @@ const yogesh = {
   role     : "MERN Stack Developer",
   location : "Nagpur, Maharashtra 🇮🇳",
   stack    : ["MongoDB", "Express.js", "React", "Node.js"],
-  languages: ["JavaScript", "C++", "Python"],
+  languages: ["JavaScript", "C++", "C"],
   passion  : "Building scalable, beautiful web experiences",
   motto    : "Write clean code. Ship fast. Iterate always.",
 };
