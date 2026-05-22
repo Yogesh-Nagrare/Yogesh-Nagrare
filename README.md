@@ -9,7 +9,7 @@
 <div align="center">
 
 ### 👋 Hey there! I'm **Yogesh Nagrare**
-#### 🚀 MERN Stack Developer | Problem Solver 
+#### Full Stack Developer | AI Engineer | Problem Solver 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps+%F0%9F%8C%90;MERN+Stack+%7C+C%2B%2B+%7C+Python+%F0%9F%90%8D;Turning+ideas+into+reality+%F0%9F%92%A1;Always+learning%2C+always+growing+%F0%9F%8C%9F" alt="Typing SVG" />
 
@@ -22,12 +22,13 @@
 ```javascript
 const yogesh = {
   name     : "Yogesh Nagrare",
-  role     : "MERN Stack Developer",
+  role     : "MERN Stack Developer & AI Engineer",
   location : "Nagpur, Maharashtra 🇮🇳",
   stack    : ["MongoDB", "Express.js", "React", "Node.js"],
+  aiSkills  : ["LangChain","LangGraph","RAG Systems","AI Agents","Vector Databases","Prompt Engineering","LLMs","Docker"],
   languages: ["JavaScript", "C++", "C"],
   passion  : "Building scalable, beautiful web experiences",
-  motto    : "Write clean code. Ship fast. Iterate always.",
+  motto    : "Build scalable apps. Create intelligent systems.",
 };
 ```
 
@@ -36,6 +37,16 @@ const yogesh = {
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
+## 🤖 AI & GenAI Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B32C3?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG_Systems-FF6B6B?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-00C853?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector_Database-6C63FF?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
